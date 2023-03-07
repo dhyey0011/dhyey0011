@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**dhyey0011/dhyey0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dhyey Dave, an Aspiring Software developer currently pursuing my master's in Computer Science. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Full stack ML integrated Web development Project.
+- 🌱 I’m currently learning AWS, Firebase, React.js, Three.js.
+- 💬 Ask about me on new tech-stacks and music.
+- 📫 How to reach me -> Email : dhyeydave0011@gmail.com.
+- ⚡ Fun fact: I am good at making punny jokes.lol.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies and Tools
+## Web Frameworks
+React.js | Node.js | Express.js | three.js | Ember.js
+
+## Databases
+Cassandra | SQL | MongoDB |PostgresSQL 
+
+## Mobile
+Java | Kotlin | Android Studio | XML 
+
+# Projects
+### Sociopedia | MongoDB, Express.js, React, Node.js |
+- Built a social media application using the MERN stack (MongoDB, Express.js, React, Node.js).
+- Designed and implemented a responsive, user-friendly interface using React and Material-UI.
+- Utilized MongoDB to store and manage user data, including posts, comments, and friend connections. 
+- Conducted thorough testing and debugging to ensure a seamless user experience.
+
+### Facial Expression Recognition System | Python, OpenCV, Deep-Face |	
+- A facial Expression Detection using Facebook’s Pretrained library Deep Face and OpenCV. 
+- This project would help user in detecting 7 different emotions using the computers Webcam With an accuracy of 74%.
+- Along with the emotion, it would also convey a message about that emotion.
+
+
+## Connect with Me on linkedin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dhyey-dave-4509a9214)
