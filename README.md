@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **`Dhyey Dave`**, an Aspiring *`*Software developer`** currently pursuing my master's in Computer Science. 
+I'm **`Dhyey Dave`**, an Aspiring **`Software developer`** currently pursuing my master's in Computer Science. 
 
 - 🔭 I’m currently working on Full stack ML integrated Web development Project.
 - 🌱 I’m currently learning AWS, Firebase, React.js, Three.js.
