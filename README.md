@@ -31,7 +31,7 @@ Java | Kotlin | Android Studio | XML
 - This project would help user in detecting 7 different emotions using the computers Webcam With an accuracy of 74%.
 - Along with the emotion, it would also convey a message about that emotion.
 
-###Connect with Me on **linkedin** 
+### Connect with Me on **linkedin** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dhyey-dave-4509a9214)
 
 #
