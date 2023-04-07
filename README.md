@@ -8,7 +8,8 @@ I'm **`Dhyey Dave`**, an Aspiring **`Software developer`** currently pursuing my
 - 📫 How to reach me -> Email : dhyeydave0011@gmail.com.
 - ⚡ Fun fact: I am good at making punny jokes.lol.
 - Take a look at my **`portfolio website`** - https://dhyey-dave.netlify.app/ 
-- Connect with Me on **linkedin** -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dhyey-dave-4509a9214)
+- Connect with Me on **linkedin** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dhyey-dave-4509a9214)
 
 
 # Technologies and Tools
