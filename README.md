@@ -8,6 +8,8 @@ I'm **`Dhyey Dave`**, an Aspiring **`Software developer`** currently pursuing my
 - 📫 How to reach me -> Email : dhyeydave0011@gmail.com.
 - ⚡ Fun fact: I am good at making punny jokes.lol.
 - Take a look at my **`portfolio website`** - https://dhyey-dave.netlify.app/ 
+- Connect with Me on **linkedin** -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dhyey-dave-4509a9214)
+
 
 # Technologies and Tools
 ## Web Frameworks
@@ -31,9 +33,6 @@ Java | Kotlin | Android Studio | XML
 - This project would help user in detecting 7 different emotions using the computers Webcam With an accuracy of 74%.
 - Along with the emotion, it would also convey a message about that emotion.
 
-
-## Connect with Me on linkedin
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dhyey-dave-4509a9214)
 
 #
 
