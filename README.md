@@ -2,14 +2,12 @@
 
 I'm **`Dhyey Dave`**, an Aspiring **`Software developer`** currently pursuing my master's in Computer Science. 
 
-- 🔭 I’m currently working on Frontned educational algorithm visualizer Web development Project.
+- 🔭 I’m currently working on Frontend educational algorithm visualizer Web development Project.
 - 🌱 I’m currently learning AWS, Firebase, React.js, Three.js.
 - 💬 Ask about me on new tech-stacks and music.
 - 📫 How to reach me -> Email : dhyeydave0011@gmail.com.
 - ⚡ Fun fact: I am good at making punny jokes.lol.
 - Take a look at my **`portfolio website`** - https://dhyey-dave.netlify.app/ 
-- 
-
 
 # Technologies and Tools
 ## Web Frameworks
