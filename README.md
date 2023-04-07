@@ -2,7 +2,7 @@
 
 I'm **`Dhyey Dave`**, an Aspiring **`Software developer`** currently pursuing my master's in Computer Science. 
 
-- 🔭 I’m currently working on Full stack ML integrated Web development Project.
+- 🔭 I’m currently working on Frontned educational algorithm visualizer Web development Project.
 - 🌱 I’m currently learning AWS, Firebase, React.js, Three.js.
 - 💬 Ask about me on new tech-stacks and music.
 - 📫 How to reach me -> Email : dhyeydave0011@gmail.com.
