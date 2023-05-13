@@ -2,7 +2,8 @@
 
 I'm **`Dhyey Dave`**, an Aspiring **`Software developer`** currently pursuing my master's in Computer Science. 
 
-- 🔭 Checkout my latest Project **`Algorithm Visualizer`** - https://algoviz-cs608.netlify.app/
+- 🔭 Checkout my latest React Project **`Algorithm Visualizer`** - https://algoviz-cs608.netlify.app/
+- 📱 Checkout my latest Mobile app project **`FinMinds`**  - https://github.com/PAJK87/CS639-Final
 - 🌱 I’m currently learning AWS, Firebase, React.js, Three.js.
 - 💬 Ask about me on new tech-stacks and music.
 - 📫 How to reach me -> Email : dhyeydave0011@gmail.com.
