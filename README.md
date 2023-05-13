@@ -18,7 +18,7 @@ React.js | Node.js | Express.js | three.js | Ember.js
 Cassandra | SQL | MongoDB |PostgresSQL 
 
 ## Mobile
-Java | Kotlin | Android Studio | XML 
+Java | Kotlin | Android Studio | XML | Jetpack Compose
 
 # Projects
 ### Sociopedia | MongoDB, Express.js, React, Node.js |
