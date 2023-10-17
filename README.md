@@ -12,7 +12,7 @@ I'm **`Dhyey Dave`**, an Aspiring **`Software developer`** currently pursuing my
 
 # Technologies and Tools
 ## Web Frameworks
-React.js | Node.js | Express.js | three.js | Ember.js
+React.js | Angular | Node.js | Express.js | three.js | Ember.js 
 
 ## Databases
 Cassandra | SQL | MongoDB |PostgresSQL 
@@ -27,10 +27,11 @@ Java | Kotlin | Android Studio | XML | Jetpack Compose
 - Utilized MongoDB to store and manage user data, including posts, comments, and friend connections. 
 - Conducted thorough testing and debugging to ensure a seamless user experience.
 
-### Facial Expression Recognition System | Python, OpenCV, Deep-Face |	
-- A facial Expression Detection using Facebook’s Pretrained library Deep Face and OpenCV. 
-- This project would help user in detecting 7 different emotions using the computers Webcam With an accuracy of 74%.
-- Along with the emotion, it would also convey a message about that emotion.
+### Algorithm Visualizer | React, Bootstrap, JavaScript, Framer-Motion, Redux Toolkit	|
+-	Collaborated an algorithm visualizer web application using React, showcasing proficiency in front-end web development and popular libraries such as Spring-React and Bootstrap
+-	Leveraged React's state management and component architecture to create a responsive and intuitive user interface that provides real-time visualization of complex algorithms such as A*, Dijkstra path finding, Merge Sort and Bubble Sort sorting algorithms
+-	Led a team of three members to diagnose and resolve technical issues, evaluate 50 lines of code daily, and effectively deliver tasks ahead of schedule. Cultivated a positive team culture through effective guidance and support, leading to a 98% on-time project completion rate
+
 
 ### Connect with Me on **linkedin** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dhyey-dave-4509a9214)
